@@ -7,6 +7,7 @@ Along the way, color in the cells marked with an orange square (see figure).
 The solution of the task is located in the file "Task-1-5.py".
 
 
+RobotTask-1-5. Занятия по Python. Исполнитель Робот. Платформа StepInDev. Приложение с графическим интерфейсом пользователя.
 Поле робота имеет размеры: длина 6 клеток, ширина 4 клетки. Оно миеет синие стены по периметру. 
 Синим квадратом помечено начальное положение робота. 
 Конечное положение робота помечено красным домиком. 
@@ -14,8 +15,6 @@ The solution of the task is located in the file "Task-1-5.py".
 По пути следования закрасить клетки помеченные оранжевым кватратом. (см. рис.). 
 Решение задачи находится в файле "Task-1-5.py".
 
-
-RobotTask-1-5. Занятия по Python. Исполнитель Робот. Платформа StepInDev. Приложение с графическим интерфейсом пользователя.
 
 <img width="559" height="420" alt="изображение" src="https://github.com/user-attachments/assets/4ca75c35-f3b1-43ba-acdd-e757ddc7a857" />
 
