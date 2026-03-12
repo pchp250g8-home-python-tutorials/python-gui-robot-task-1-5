@@ -1,4 +1,4 @@
-RobotTask-1-5. Python Tutorials. Module Robot. StepInDev Platform. GUI Application. 
+RobotTask-1-5. Python Tutorials. Module Robot. StepInDev Platform. GUI Application.
 The robot's field is 6 cells long and 4 cells wide. It has blue walls around the perimeter. 
 The robot's starting position is marked with a blue square. 
 The robot's final position is marked with a red house. 
